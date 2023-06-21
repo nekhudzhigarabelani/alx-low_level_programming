@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'print numbers of base 16'
- * Return: always 0
+ * Return: always o
  */
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
 	{
 		putchar(n);
 	}
-	for (m = 97; m <= 102; n++)
+	for (m = 97; m <= 102; m++)
 	{
 		putchar(m);
 	}
