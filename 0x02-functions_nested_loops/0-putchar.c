@@ -2,6 +2,7 @@
 
 /**
  * main -Entry point
+ *
  * Return: Always 0
  */
 
@@ -9,12 +10,13 @@ int main(void)
 {
 
 	_putchar('_');
-	_Putchar('p');
-	_Putchar('u');
-	_Putchar('t');
-	_Putchar('c');
-	_Putchar('h');
-	_Putchar('a');
-	_Putchar('r');
-	-Putchar('\n');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return(0);
+}
